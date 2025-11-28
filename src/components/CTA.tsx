@@ -34,7 +34,7 @@ export const CTA = () => {
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <Link to="/onboarding">
+              <Link to="/dashboard">
                 <Button variant="dark" size="xl" className="group">
                   Get Started Free
                   <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
